@@ -205,3 +205,6 @@ C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\obj\Debug\MyTwitty.csproj.CoreCompi
 C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\obj\Debug\MyTwitty.csproj.CopyComplete
 C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\obj\Debug\MyTwitty.dll
 C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\obj\Debug\MyTwitty.pdb
+C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\bin\System.Web.Cors.dll
+C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\bin\System.Web.Http.Cors.dll
+C:\EcUtbildning\ExamenArbete\Thesis\MyTwitty\bin\System.Web.Http.Cors.xml
